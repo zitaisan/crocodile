@@ -1,0 +1,45 @@
+
+ .t {
+    width:100%
+   }
+
+.h {
+    background-color: rgb(233, 29, 22);
+    border-color: rgb(233, 29, 22);
+    height:40px;
+    padding:3px;
+}
+td {
+    text-align: center;
+    }
+a {
+    color:rgb(255, 246, 246);
+    text-decoration: none }
+a:hover {
+        color: rgb(14, 136, 60);
+}
+h1 {
+    text-align: center;
+    color:rgb(3, 167, 44);
+    font:size  50px;
+    font-family: 'Montserrat Alternates',sans-serif;
+    word-spacing: 50px;
+    line-height: 70px;
+}
+h6 {
+    color: rgb(3, 133, 35);
+    font: size 40px;
+    word-spacing: 15px;
+    font-family: 'Montserrat Alternates',sans-serif;
+}
+.F {
+    background-color: rgb(233, 29, 22);
+    border-color: rgb(233, 29, 22);
+    height:40px;
+    padding:3px;
+    color: rgb(255, 255, 255);
+    font-size:small;
+    
+}
+
+
